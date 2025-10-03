@@ -31,8 +31,8 @@
 
 ## 프로젝트 링크
 
-- 배포 URL: [https://seeun29na.github.io/moysay_web](https://seeun29na.github.io/moysay_web) (예정)
-- GitHub Repository: [github.com/seeun29na/moysay_web](https://github.com/seeun29na/moysay_web)
+- 배포 URL: https://it-moysay.github.io/moysay/
+- GitHub Repository: 
 
 
 ## 기술 스택
