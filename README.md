@@ -44,4 +44,4 @@
 ## 기여 및 피드백
 
 서비스에 대한 피드백은 언제든지 환영입니다.  
-[이슈를 남겨주세요](https://github.com/seeun29na/moysay_web/issues) ✍️
+[이슈를 남겨주세요](https://github.com/IT-moysay/moysay/issues) ✍️
