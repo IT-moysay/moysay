@@ -24,8 +24,6 @@
 ### 추가 기능
 - 장소 입력 시 지도 자동 링크 생성
 - 약속 관련 의견 메모 기능
-- 해당 날짜의 날씨 정보 제공
-- 참여자별 색상 선택 가능
 - 모바일 친화적 UI/UX
 
 
@@ -38,17 +36,9 @@
 ## 기술 스택
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python Flask / Firebase Realtime DB
+- **Backend**: Firebase Realtime DB
 - **배포**: GitHub Pages
-- **기타**: Google Analytics, Hotjar (사용자 분석)
-
-
-## 향후 계획
-
-- 7월: UI 및 기능 초안 구현, 데이터 베이스 연동, GitHub Pages 배포
-- 8월~9월: 백엔드 연동 및 데이터 저장
-- 10월: 기능 완성, 배포 및 사용자 분석
-- 11월: 공모전 제출 및 최종 보고서 정리
+- **기타**: Google Analytics (사용자 분석)
 
 
 ## 기여 및 피드백
