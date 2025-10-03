@@ -43,13 +43,6 @@
 - **기타**: Google Analytics, Hotjar (사용자 분석)
 
 
-## 팀 소개 - TEAM 은율
-
-| 이름 | 소속 | Github link |
-|------|------|------|
-| 정세은 | AI융합학부 | [seeun29na](https://github.com/seeun29na) |
-| 김지율 | AI융합학부 | [Jiyyul](https://github.com/Jiyyul) |
-
 ## 향후 계획
 
 - 7월: UI 및 기능 초안 구현, 데이터 베이스 연동, GitHub Pages 배포
