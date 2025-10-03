@@ -32,7 +32,7 @@
 ## 프로젝트 링크
 
 - 배포 URL: https://it-moysay.github.io/moysay/
-- GitHub Repository: 
+- GitHub Repository: https://github.com/IT-moysay/moysay.git
 
 
 ## 기술 스택
