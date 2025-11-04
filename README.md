@@ -24,41 +24,24 @@
 ### 추가 기능
 - 장소 입력 시 지도 자동 링크 생성
 - 약속 관련 의견 메모 기능
-- 해당 날짜의 날씨 정보 제공
-- 참여자별 색상 선택 가능
 - 모바일 친화적 UI/UX
 
 
 ## 프로젝트 링크
 
-- 배포 URL: [https://seeun29na.github.io/moysay_web](https://seeun29na.github.io/moysay_web) (예정)
-- GitHub Repository: [github.com/seeun29na/moysay_web](https://github.com/seeun29na/moysay_web)
+- 배포 URL: https://it-moysay.github.io/moysay/
+- GitHub Repository: https://github.com/IT-moysay/moysay.git
 
 
 ## 기술 스택
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python Flask / Firebase Realtime DB
+- **Backend**: Firebase Realtime DB
 - **배포**: GitHub Pages
-- **기타**: Google Analytics, Hotjar (사용자 분석)
-
-
-## 팀 소개 - TEAM 은율
-
-| 이름 | 소속 | Github link |
-|------|------|------|
-| 정세은 | AI융합학부 | [seeun29na](https://github.com/seeun29na) |
-| 김지율 | AI융합학부 | [Jiyyul](https://github.com/Jiyyul) |
-
-## 향후 계획
-
-- 7월: UI 및 기능 초안 구현, 데이터 베이스 연동, GitHub Pages 배포
-- 8월~9월: 백엔드 연동 및 데이터 저장
-- 10월: 기능 완성, 배포 및 사용자 분석
-- 11월: 공모전 제출 및 최종 보고서 정리
+- **기타**: Google Analytics (사용자 분석)
 
 
 ## 기여 및 피드백
 
 서비스에 대한 피드백은 언제든지 환영입니다.  
-[이슈를 남겨주세요](https://github.com/seeun29na/moysay_web/issues) ✍️
+[이슈를 남겨주세요](https://github.com/IT-moysay/moysay/issues) ✍️
